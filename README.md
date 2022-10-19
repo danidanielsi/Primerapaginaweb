@@ -1,4 +1,3 @@
 # Hotel Avellanas
-<IMG SRC=”fotocactus.jpg”>
 Practicando un poco
-with my first web page
+<FONT SIZE=”5”with my first web page
